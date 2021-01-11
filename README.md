@@ -1,2 +1,2 @@
 # CS550-Tutorial1-Python
-This is a Colab notebook for used as tutorial by me for python in CS550 course at IIT-Bhilai.
+This is a Colab notebook used as a python tutorial by me, for CS550 course at IIT-Bhilai.
